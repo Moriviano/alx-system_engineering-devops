@@ -1,2 +1,0 @@
-#!/bin/bash
-cvt -d '1' -f 1,6 /etc/passwd |sort
